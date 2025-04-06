@@ -1,0 +1,26 @@
+/*Documento css*/
+
+.cabecera { width: 100%;
+    background-color: #81bc7c;
+    padding: 16px 0px; }
+
+body {background-color: #c6e8c3;}
+
+h2 {  font-family: "Rock Salt", cursive; }
+
+p {  font-family: "Quicksand", sans-serif; }
+
+h1 {  font-family: "Rock Salt", cursive;
+      text-align: center; }
+
+img { display: block;
+        margin: auto; }
+
+table { margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 18px 10px; 
+    font-family: "Quicksand", sans-serif; }
+
+hr { height: 2px;
+    background-color: #81bc7c;
+    border: none; }

@@ -1,0 +1,23 @@
+/*Documento Css*/
+
+*{ margin: 0;
+    padding: 0; }
+
+ body { font-family: "Cormorant", serif; } 
+
+.cabecera { background-color: rgb(28, 28, 28);
+            padding-top: 32px;
+            min-height: 1px; }
+
+.bar { width: 100%;
+        min-height: 1px; }
+
+.logo { color: rgb(255, 255, 255);
+        width: 40%;
+        font-size: 2em;
+        display: block;
+        margin: auto; }
+
+.container {  }
+
+.items {  }

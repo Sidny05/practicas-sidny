@@ -1,0 +1,22 @@
+/*documento css*/
+*{margin: 0px
+  padding: 0px;}
+
+body { font-family: "Roboto Mono", monospace;}
+
+h1 { font-family: "Sigmar", sans-serif;
+      text-align: center;}
+
+.cabecera { margin-bottom: 32px; }
+
+.tablas { background-color: #dab3ef;
+            min-height: 1px;
+            padding: 16px 0px; 
+            margin-bottom: 32px;}
+
+div.tablas {background-color: rgb(248, 147, 234);
+             margin-bottom: 380px;}
+
+.tablas table {margin: auto;}
+
+.pie {background-color: #66009c;}
